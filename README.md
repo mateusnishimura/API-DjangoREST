@@ -1,7 +1,10 @@
 # API-DjangoREST
 
 Para clonar o repositório localmente:
-`git@github.com:mateusnishimura/API-DjangoREST.git`
+`git clone git@github.com:mateusnishimura/API-DjangoREST.git`
+
+Para ativar o ambiente virtual:
+`source venv/bin/activate`
 
 Para analisar se foram feitas mudanças nos modelos e, em caso positivo, criar novas migrações.
 `python manage.py makemigrations`
