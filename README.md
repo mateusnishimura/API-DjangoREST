@@ -6,7 +6,7 @@ Para clonar o repositório localmente:
 Para ativar o ambiente virtual:
 `source venv/bin/activate`
 
-Para analisar se foram feitas mudanças nos modelos e, em caso positivo, criar novas migrações.
+Para analisar se foram feitas mudanças nos modelos e, em caso positivo, criar novas migrações:
 `python manage.py makemigrations`
 
 Para criar as migrations:
