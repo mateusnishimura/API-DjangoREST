@@ -21,8 +21,8 @@ Para executar o servidor:
 
 | Rotas | URL |
 | ------ | ------ |
-| Frutas: POST, GET| [http://localhost:8000/fruit/] |
-| Frutas: UPDATE, DELETE| [http://localhost:8000/fruit/:id_fruta] |
-| Regiões: POST, GET | [http://localhost:8000/region/] |
-| Regiões: UPDATE, DELETE| [http://localhost:8000/region/:id_regiao] |
-| Painel admin | [http://localhost:8000/admin] |
+| Frutas: POST, GET| http://localhost:8000/fruit/ |
+| Frutas: UPDATE, DELETE| http://localhost:8000/fruit/:id_fruta |
+| Regiões: POST, GET | http://localhost:8000/region/ |
+| Regiões: UPDATE, DELETE| http://localhost:8000/region/:id_regiao |
+| Painel admin | http://localhost:8000/admin |
